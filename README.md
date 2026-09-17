@@ -1,23 +1,33 @@
 <div align="center">
 
-# KARTHIK RAJA T
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         HERO                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### Java Developer · Software Engineer
-
-<p>
-Final-year Computer Technology student passionate about
-software development, problem solving and building practical applications.
-</p>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:151515,100:050505&height=240&section=header&text=KARTHIK%20RAJA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=JAVA%20DEVELOPER%20%E2%80%A2%20SOFTWARE%20ENGINEER&descAlignY=63&descSize=17&animation=fadeIn"
+width="100%"
+/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tkarthikraja44-ux)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-raja-thavamani)
-[![Email](https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tkarthikraja44@gmail.com)
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=Java+Developer;Software+Engineering+Enthusiast;Problem+Solver;Full+Stack+Developer;Building+Practical+Applications"
+alt="Typing animation"
+/>
 
 <br><br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Java+Developer;Software+Engineering+Enthusiast;Problem+Solver;Full+Stack+Developer;Building+Practical+Applications)
+[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tkarthikraja44-ux)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-raja-thavamani)
+[![Email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tkarthikraja44@gmail.com)
+
+<br><br>
+
+<img
+src="https://komarev.com/ghpvc/?username=tkarthikraja44-ux&style=flat-square&color=555555&label=PROFILE+VIEWS"
+alt="Profile views"
+/>
 
 </div>
 
@@ -25,283 +35,80 @@ software development, problem solving and building practical applications.
 
 ---
 
-## ABOUT ME
+<div align="center">
 
-I'm a **final-year Computer Technology student** with strong
-fundamentals in **Java, Object-Oriented Programming, Data Structures,
-SQL and problem solving**.
+# SOFTWARE ENGINEER IN THE MAKING
 
-I enjoy developing software applications and turning ideas into
-practical solutions.
+### Java · Problem Solving · Databases · Full Stack
 
-My development experience includes **Java applications** as well as
-**full-stack web development**.
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=8B949E&center=true&vCenter=true&width=600&height=35&lines=Learn+deeply.;Build+practically.;Solve+problems.;Improve+continuously."
+alt="Developer philosophy"
+/>
+
+</div>
+
+<br>
+
+---
+
+# ABOUT ME
+
+<table>
+<tr>
+
+<td width="62%" valign="top">
+
+I'm a **final-year Computer Technology student** focused on
+software development, problem solving and building practical applications.
+
+I have strong fundamentals in **Java, Object-Oriented Programming,
+Data Structures and SQL**, with experience developing both
+Java applications and full-stack web applications.
+
+I enjoy taking an idea, understanding the problem behind it,
+and turning it into a working software solution.
 
 ### Current Focus
 
 - Java & Object-Oriented Programming
-- Data Structures & Problem Solving
-- SQL & Database Design
-- Full-Stack Web Development
+- Data Structures & Algorithms
+- SQL & Database Management
 - Backend Development
-- Building practical software applications
-
----
-
-## TECH STACK
-
-<div align="center">
-
-### Programming
-
-![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
-
-<br><br>
-
-### Database
-
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-<br><br>
-
-### Web Development
-
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![React](https://skillicons.dev/icons?i=react)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-<br><br>
-
-### Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Eclipse](https://skillicons.dev/icons?i=eclipse)
-
-</div>
-
----
-
-# FEATURED PROJECTS
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 📚 PeerNotes
-
-### Notes Sharing Platform
-
-A full-stack notes-sharing platform developed
-for sharing and managing educational content.
-
-### Technology
-
-`React.js` · `Node.js` · `Express.js`  
-`MongoDB` · `Cloudinary`
-
-### Features
-
-- User authentication
-- Note management
-- User profiles
-- Note search
-- Backend APIs
-- Cloud file storage
-
-<br>
-
-[**View Repository →**](https://github.com/tkarthikraja44-ux)
+- Full-Stack Development
+- Software Engineering
 
 </td>
 
-<td width="50%" valign="top">
-
-## 📝 Online Assessment Portal
-
-### Employability Assessment System
-
-An online assessment platform developed for
-students, faculty and administrators.
-
-### Technology
-
-`Java` · `MySQL` · `HTML`  
-`CSS` · `JavaScript`
-
-### Features
-
-- User authentication
-- Role-based access
-- MCQ examinations
-- Exam timer
-- Automatic evaluation
-- Result generation
-- Performance tracking
-
-<br>
-
-[**View Repository →**](https://github.com/tkarthikraja44-ux)
-
-</td>
-
-</tr>
-</table>
-
----
-
-# CORE SKILLS
-
-<div align="center">
-
-| AREA | SKILLS |
-|:---|:---|
-| **Programming** | Java · C · SQL |
-| **Core Concepts** | OOP · Data Structures · Problem Solving |
-| **Database** | MySQL · MongoDB |
-| **Frontend** | HTML · CSS · JavaScript · React.js |
-| **Backend** | Node.js · Express.js |
-| **Storage** | Cloudinary |
-| **Tools** | Git · GitHub · VS Code · Eclipse |
-
-</div>
-
----
-
-# EXPERIENCE
-
-## Full Stack Developer Intern
-
-**Litz Tech Pvt. Ltd. · Coimbatore**
-
-`May 2023`
-
-Worked with frontend and backend development fundamentals,
-software development practices, project structures and
-application components.
-
-### Experience
-
-- Frontend and backend development fundamentals
-- Software development practices
-- Project structure and workflows
-- Application components
-- Agile development environment
-- Collaboration with developers
-
----
-
-# CERTIFICATION
-
-<div align="center">
-
-### Oracle Certified Professional
-
-## Java SE 17 Developer
-
-<br>
-
-![Oracle](https://img.shields.io/badge/ORACLE%20CERTIFIED%20PROFESSIONAL-JAVA%20SE%2017-111111?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
-
----
-
-# EDUCATION
-
-<table>
-<tr>
-
-<td width="50%">
-
-### B.Tech — Computer Technology
-
-**Bannari Amman Institute of Technology**
-
-`2023 – 2027`
-
-**CGPA: 7.08 / 10**
-
-</td>
-
-<td width="50%">
-
-### Diploma — Computer Science Engineering
-
-**Sri Krishna Polytechnic College**
-
-`2021 – 2024`
-
-**Percentage: 68%**
-
-</td>
-
-</tr>
-</table>
-
----
-
-# GITHUB ACTIVITY
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=tkarthikraja44-ux&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github"
-width="48%"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkarthikraja44-ux&layout=compact&hide_border=true&theme=github_dark"
-width="40%"
-/>
-
-<br><br>
-
-<img
-src="https://streak-stats.demolab.com?user=tkarthikraja44-ux&theme=github-dark-blue&hide_border=true"
-width="70%"
-/>
-
-</div>
-
----
-
-# CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=tkarthikraja44-ux&theme=github-compact&hide_border=true&area=true"
-width="96%"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-# BUILD · LEARN · IMPROVE
-
-<br>
-
-**Java** · **Software Engineering** · **Problem Solving**
-
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/VISIT_MY_PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://karthik-portfolio-bice.vercel.app/)
-
-<br><br>
-
-<sub>
-Thanks for visiting my profile.
-</sub>
-
-</div>
+<td width="38%" valign="top">
+
+### DEVELOPER PROFILE
+
+```text
+ROLE
+Java Developer
+
+PRIMARY
+Java
+
+CORE
+OOP
+Data Structures
+SQL
+
+DATABASE
+MySQL
+MongoDB
+
+WEB
+React
+Node.js
+Express.js
+
+TOOLS
+Git
+GitHub
+VS Code
+Eclipse
