@@ -2,182 +2,157 @@
 
 # Karthik Raja T
 
-### Software Engineer · Java · Full Stack
+### Software Engineer | Java Developer | Full Stack Developer
 
-Building simple, reliable and meaningful software.
+Building practical software with clean code and thoughtful design.
 
 <br>
 
-<a href="https://karthik-portfolio-bice.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/tkarthikraja44-ux">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://karthik-portfolio-bice.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
 
 </div>
 
-<br>
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Technology student at **Bannari Amman Institute of Technology**
+- 💻 Focused on **Java & Software Engineering**
+- 🌱 Currently improving **Data Structures & Algorithms**
+- 🔨 Building **Full-Stack Web Applications**
+- 🗄️ Interested in **Backend Development & Database Design**
+- ☕ Java is my primary programming language
+- 🚀 Always learning and building
 
 ---
 
-## About
+## 🧰 Tech Stack
 
-I'm a Computer Technology student focused on becoming a
-**software engineer**.
+### Languages
 
-I enjoy turning ideas into practical software, solving problems with
-clean code, and continuously improving my understanding of
-**Java, Data Structures, Backend Development and Full-Stack Engineering.**
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" />
+</p>
 
-Currently working on becoming stronger at:
+### Frontend
 
-- Java & Object-Oriented Programming
-- Data Structures & Algorithms
-- Backend Development
-- SQL & Database Design
-- REST APIs
-- Full-Stack Application Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
 
 ---
 
-## Selected Work
+## 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%">
 
-### PeerNotes
+### 📚 PeerNotes
 
-A full-stack platform for students to
-share notes, communicate and collaborate.
+A full-stack note-sharing platform where
+students can upload, share and communicate.
 
-**Stack**
+**Tech Stack**
 
-React · Node.js · Express · MongoDB
+`React` `Node.js` `Express` `MongoDB`
 
-[View repository →](#)
+[View Project →](https://github.com/tkarthikraja44-ux)
 
 </td>
 
 <td width="50%">
 
-### Employability Assessment
+### 📝 Employability Assessment
 
 An online assessment platform with
-authentication, timed examinations,
+authentication, timed exams,
 automatic evaluation and analytics.
 
-**Stack**
+**Tech Stack**
 
-React · Supabase · PostgreSQL
+`React` `Supabase` `PostgreSQL`
 
-[View repository →](#)
+[View Project →](https://github.com/tkarthikraja44-ux)
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### Bank Management System
+### 🏦 Bank Management System
 
-A Java application demonstrating
-object-oriented programming and
-collection-based data management.
+Java-based banking application implementing
+OOP principles and collection frameworks.
 
-**Stack**
+**Tech Stack**
 
-Java · OOP · Collections
+`Java` `OOP` `Collections`
 
-[View repository →](#)
+[View Project →](https://github.com/tkarthikraja44-ux)
 
 </td>
 
 <td width="50%">
 
-### Portfolio
+### 🌐 Developer Portfolio
 
-A personal developer portfolio designed
-to showcase projects, skills and experience.
+Personal portfolio showcasing my projects,
+skills, experience and achievements.
 
-**Stack**
+**Tech Stack**
 
-React · Tailwind · GSAP
+`React` `Tailwind CSS` `GSAP`
 
-[Visit website →](https://karthik-portfolio-bice.vercel.app/)
+[Live Website →](https://karthik-portfolio-bice.vercel.app/)
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## Technology
-
-<table>
-<tr>
-<td><strong>Languages</strong></td>
-<td>Java · C · C++ · Python · JavaScript</td>
-</tr>
-
-<tr>
-<td><strong>Frontend</strong></td>
-<td>React · HTML · CSS · JavaScript · Tailwind CSS</td>
-</tr>
-
-<tr>
-<td><strong>Backend</strong></td>
-<td>Node.js · Express.js · REST APIs</td>
-</tr>
-
-<tr>
-<td><strong>Database</strong></td>
-<td>PostgreSQL · MySQL · MongoDB · Supabase</td>
-</tr>
-
-<tr>
-<td><strong>Tools</strong></td>
-<td>Git · GitHub · VS Code · IntelliJ IDEA</td>
-</tr>
-</table>
-
----
-
-## Engineering Focus
+## 📖 Currently Learning
 
 ```text
-JAVA
- ├── Object-Oriented Programming
+Java
+ ├── OOP
  ├── Collections
  ├── Exception Handling
- └── Problem Solving
+ ├── JDBC
+ └── Advanced Java
 
-DATA STRUCTURES
+Data Structures & Algorithms
  ├── Arrays
  ├── Strings
  ├── Hashing
  ├── Two Pointers
  ├── Sliding Window
- └── Searching & Sorting
+ ├── Searching
+ └── Sorting
 
-BACKEND
+Backend Development
  ├── REST APIs
  ├── Authentication
- ├── Database Design
- └── Server-side Logic
-
-FULL STACK
- ├── React
- ├── Node.js
- ├── MongoDB
- └── Supabase
+ ├── SQL
+ └── Database Design
