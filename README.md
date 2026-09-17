@@ -1,65 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:050505&height=180&section=header&text=Karthik%20Raja&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Java%20%7C%20Full%20Stack&descAlignY=65&descSize=16&animation=fadeIn" width="100%"/>
+# KARTHIK RAJA T
 
-<br/>
+### Java Developer · Software Engineer
 
-<a href="https://karthik-portfolio-bice.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-&nbsp;
+<p>
+Final-year Computer Technology student focused on Java,
+problem solving, databases and software development.
+</p>
+
+<br>
+
 <a href="https://github.com/tkarthikraja44-ux">
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/karthik-raja-thavamani/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/karthik-raja-thavamani">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/karthikraja44/">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=white"/>
+<a href="mailto:tkarthikraja44@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=tkarthikraja44-ux&style=flat-square&color=555555&label=PROFILE+VIEWS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Java+Developer;Software+Engineering+Enthusiast;Problem+Solver;Building+Practical+Applications" />
 
 </div>
 
-<br/>
+<br>
 
 ---
 
 <div align="center">
 
-## Software Engineer in the making.
+## SOFTWARE DEVELOPMENT
 
-**I build. I solve. I learn. I improve.**
+**Java · Data Structures · SQL · MySQL · MongoDB**
 
 </div>
 
-<br/>
+<br>
 
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
-### About
+## About Me
 
-I'm a **Computer Technology student** passionate about
-building practical software and solving programming problems.
+I'm a **final-year Computer Technology student** with strong
+fundamentals in **Java, Object-Oriented Programming, Data Structures,
+SQL and problem solving**.
 
-My primary engineering focus is **Java**, with a strong interest in
-**Data Structures & Algorithms, Backend Engineering and Full-Stack Development**.
+I enjoy developing software applications and turning ideas into
+practical, maintainable solutions.
 
-I enjoy taking an idea from concept to a working application.
+My development experience includes both **Java-based applications**
+and **full-stack web development**.
+
+Currently focused on strengthening my software engineering,
+problem-solving and application development skills.
+
+</td>
+
+<td width="35%" valign="top">
+
+### PROFILE
 
 ```text
-Focus
-─────
+ROLE
+Java Developer
+
+PRIMARY
 Java
-Data Structures & Algorithms
-Backend Development
-Full-Stack Development
-SQL & Databases
+
+CORE
+OOP
+Data Structures
+SQL
+
+DATABASE
+MySQL
+MongoDB
+
+TOOLS
+Git
+GitHub
+VS Code
+Eclipse
