@@ -1,13 +1,12 @@
 <!-- ===================================================== -->
 <!--                    KARTHIK RAJA T                     -->
-<!--              GitHub Profile README                    -->
 <!-- ===================================================== -->
 
 <!-- ===================== HEADER ======================== -->
 
 <p align="center">
   <img
-    src="assets/header.svg"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Karthik%20Raja%20T&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
     width="100%"
     alt="Karthik Raja T Header"
   />
@@ -16,7 +15,7 @@
 <p align="center">
   <a href="https://github.com/tkarthikraja44-ux">
     <img
-      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=720&height=45&lines=Hi+there!+I'm+Karthik+Raja+%F0%9F%91%8B;Final-Year+Computer+Technology+Student+%F0%9F%8E%93;Java+Developer+%26+Problem+Solver+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Building+Practical+Software+Applications+%E2%9A%A1"
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=750&height=45&lines=Hi+there!+I'm+Karthik+Raja+%F0%9F%91%8B;Final-Year+Computer+Technology+Student+%F0%9F%8E%93;Java+Developer+%26+Problem+Solver+%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Building+Practical+Software+Applications+%E2%9A%A1"
       alt="Typing SVG"
     />
   </a>
@@ -28,34 +27,27 @@
 
 <p align="center">
 
-  <a href="https://github.com/tkarthikraja44-ux">
-    <img
-      src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a"
-      alt="GitHub"
-    />
-  </a>
+<a href="https://github.com/tkarthikraja44-ux">
+<img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white"
+alt="GitHub">
+</a>
 
-  <a href="https://linkedin.com/in/karthik-raja-thavamani">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"
-      alt="LinkedIn"
-    />
-  </a>
+<a href="https://linkedin.com/in/karthik-raja-thavamani">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+alt="LinkedIn">
+</a>
 
-  <a href="mailto:tkarthikraja44@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"
-      alt="Email"
-    />
-  </a>
+<a href="mailto:tkarthikraja44@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+alt="Email">
+</a>
 
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=tkarthikraja44-ux&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge"
-    alt="Profile Views"
-  />
+<img
+src="https://komarev.com/ghpvc/?username=tkarthikraja44-ux&label=PROFILE%20VIEWS&color=DC2626&style=for-the-badge"
+alt="Profile Views">
 </p>
 
 
@@ -66,33 +58,27 @@
 <h2 align="center">⚡ About Me</h2>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=650&height=30&lines=Java+%7C+SQL+%7C+Full-Stack+Development;Learning+DSA+%26+Building+Real-World+Applications"
-    width="100%"
-    style="max-width:650px;"
-    alt="About Me Typing"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-    width="340"
-    style="max-width:100%; border-radius:12px;"
-    alt="Developer Coding Animation"
-  />
+<img
+src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=650&height=30&lines=Java+%7C+SQL+%7C+Full-Stack+Development;Learning+DSA+%26+Problem+Solving;Building+Practical+Software+Applications"
+alt="About Me">
+
 </p>
 
 <p align="center">
   I'm <b>Karthik Raja T</b>, a final-year
-  <b>Computer Technology student</b> with strong fundamentals
-  in Java, Object-Oriented Programming, Data Structures,
-  SQL and problem solving.
+  <b>Computer Technology student</b>.
 </p>
 
 <p align="center">
-  I enjoy developing software applications and academic projects
-  using <b>Java, MySQL, MongoDB, React.js and web technologies.</b>
+  I have strong fundamentals in
+  <b>Java, Object-Oriented Programming, Data Structures,
+  SQL and problem solving.</b>
+</p>
+
+<p align="center">
+  I enjoy developing software applications using
+  <b>Java, MySQL, MongoDB, React.js and web technologies.</b>
 </p>
 
 <p align="center">
@@ -102,25 +88,22 @@
 
 
 <!-- ===================================================== -->
-<!--                    PROFILE STATUS                     -->
+<!--                  PROFILE STATUS                       -->
 <!-- ===================================================== -->
 
 <p align="center">
 
 <img
-  src="https://img.shields.io/badge/Status-Final--Year-111111?style=flat-square"
-  alt="Status"
-/>
+src="https://img.shields.io/badge/Status-Final--Year-111111?style=for-the-badge"
+alt="Status">
 
 <img
-  src="https://img.shields.io/badge/Degree-B.Tech%20Computer%20Technology-DC2626?style=flat-square"
-  alt="Degree"
-/>
+src="https://img.shields.io/badge/Focus-Software%20Development-DC2626?style=for-the-badge"
+alt="Focus">
 
 <img
-  src="https://img.shields.io/badge/Focus-Software%20Development-111111?style=flat-square"
-  alt="Focus"
-/>
+src="https://img.shields.io/badge/Primary-Java-111111?style=for-the-badge&logo=openjdk&logoColor=white"
+alt="Java">
 
 </p>
 
@@ -131,11 +114,11 @@
 
 <h2 align="center">💻 What I Work With</h2>
 
-<table width="100%" border="0" align="center">
+<table width="100%" align="center">
 
 <tr>
 
-<td width="33%" align="center" style="padding:20px;">
+<td width="33%" align="center">
 
 <h3>☕ Java</h3>
 
@@ -149,9 +132,9 @@ Problem Solving
 
 </td>
 
-<td width="33%" align="center" style="padding:20px;">
+<td width="33%" align="center">
 
-<h3>🌐 Web Development</h3>
+<h3>🌐 Full Stack</h3>
 
 <p>
 React.js
@@ -163,16 +146,16 @@ Express.js
 
 </td>
 
-<td width="33%" align="center" style="padding:20px;">
+<td width="33%" align="center">
 
-<h3>🗄️ Databases</h3>
+<h3>🗄️ Database</h3>
 
 <p>
 MySQL
 <br>
 MongoDB
 <br>
-Data Management
+SQL
 </p>
 
 </td>
@@ -183,7 +166,41 @@ Data Management
 
 
 <!-- ===================================================== -->
-<!--                  FEATURED PROJECTS                    -->
+<!--                    TECH STACK                         -->
+<!-- ===================================================== -->
+
+<h2 align="center">🛠️ Technical Skills</h2>
+
+<h3 align="center">Programming Languages</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,c&theme=dark" alt="Java C">
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-DC2626?style=for-the-badge&logo=mysql&logoColor=white"
+alt="SQL">
+</p>
+
+
+<h3 align="center">Database</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"
+alt="MySQL MongoDB">
+</p>
+
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark"
+alt="Git GitHub VS Code Eclipse">
+</p>
+
+
+<!-- ===================================================== -->
+<!--                    PROJECTS                           -->
 <!-- ===================================================== -->
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -191,7 +208,7 @@ Data Management
 
 <!-- ===================== PEERNOTES ===================== -->
 
-<table width="100%" border="0" align="center">
+<table width="100%" align="center">
 
 <tr>
 
@@ -200,7 +217,7 @@ Data Management
 <h3>📚 PeerNotes – Notes Sharing Platform</h3>
 
 <p>
-A full-stack notes-sharing platform developed for
+A full-stack notes-sharing platform for
 sharing and managing academic resources.
 </p>
 
@@ -212,32 +229,14 @@ sharing and managing academic resources.
 React.js • Node.js • Express.js • MongoDB • Cloudinary
 </p>
 
+<p>
+<b>Features</b>
+</p>
+
+<p>
+• User authentication and authorization
 <br>
-
-<p>
-<img
-  src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0a0a0a"
-  alt="React"
-/>
-
-<img
-  src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0a0a0a"
-  alt="Node"
-/>
-
-<img
-  src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0a0a0a"
-  alt="MongoDB"
-/>
-
-</p>
-
-<p>
-<b>Key Features</b>
-</p>
-
-<p>
-• User login and authentication
+• Login and user management
 <br>
 • Note management
 <br>
@@ -247,7 +246,7 @@ React.js • Node.js • Express.js • MongoDB • Cloudinary
 <br>
 • Backend APIs
 <br>
-• Secure access and authorization
+• MongoDB data storage
 <br>
 • Cloudinary file storage
 </p>
@@ -261,7 +260,7 @@ React.js • Node.js • Express.js • MongoDB • Cloudinary
 
 <!-- ===================== ASSESSMENT ==================== -->
 
-<table width="100%" border="0" align="center">
+<table width="100%" align="center">
 
 <tr>
 
@@ -274,8 +273,8 @@ React.js • Node.js • Express.js • MongoDB • Cloudinary
 </p>
 
 <p>
-An online assessment platform designed for students,
-faculty and administrators.
+An online assessment platform designed for
+students, faculty and administrators.
 </p>
 
 <p>
@@ -286,24 +285,8 @@ faculty and administrators.
 Java • MySQL • HTML • CSS • JavaScript
 </p>
 
-<br>
-
 <p>
-
-<img
-  src="https://img.shields.io/badge/Java-Backend-DC2626?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0a0a"
-  alt="Java"
-/>
-
-<img
-  src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0a0a0a"
-  alt="MySQL"
-/>
-
-</p>
-
-<p>
-<b>Key Features</b>
+<b>Features</b>
 </p>
 
 <p>
@@ -336,94 +319,6 @@ Java • MySQL • HTML • CSS • JavaScript
 
 
 <!-- ===================================================== -->
-<!--                    TECH STACK                         -->
-<!-- ===================================================== -->
-
-<h2 align="center">🛠️ Technical Skills</h2>
-
-
-<p align="center">
-  <b>Programming Languages</b>
-</p>
-
-<p align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=java,c&theme=dark"
-  width="180"
-  alt="Programming Languages"
-/>
-
-</p>
-
-
-<p align="center">
-  <b>Database</b>
-</p>
-
-<p align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"
-  width="180"
-  alt="Databases"
-/>
-
-</p>
-
-
-<p align="center">
-  <b>Development Tools</b>
-</p>
-
-<p align="center">
-
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark"
-  width="260"
-  alt="Development Tools"
-/>
-
-</p>
-
-
-<!-- ===================================================== -->
-<!--                   SKILL BADGES                        -->
-<!-- ===================================================== -->
-
-<h3 align="center">Core Skills</h3>
-
-<p align="center">
-
-<img
-  src="https://img.shields.io/badge/Java-Programming-DC2626?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0a0a"
-  alt="Java"
-/>
-
-<img
-  src="https://img.shields.io/badge/C-Programming-DC2626?style=for-the-badge&logo=c&logoColor=white&labelColor=0a0a0a"
-  alt="C"
-/>
-
-<img
-  src="https://img.shields.io/badge/SQL-Database-DC2626?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0a0a0a"
-  alt="SQL"
-/>
-
-<img
-  src="https://img.shields.io/badge/OOP-Java-DC2626?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0a0a"
-  alt="OOP"
-/>
-
-<img
-  src="https://img.shields.io/badge/Data%20Structures-Learning-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a"
-  alt="Data Structures"
-/>
-
-</p>
-
-
-<!-- ===================================================== -->
 <!--                    CERTIFICATION                      -->
 <!-- ===================================================== -->
 
@@ -432,24 +327,23 @@ Java • MySQL • HTML • CSS • JavaScript
 <p align="center">
 
 <img
-  src="https://img.shields.io/badge/Oracle-Certified%20Professional-DC2626?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0a0a0a"
-  alt="Oracle Certification"
-/>
+src="https://img.shields.io/badge/Oracle-Certified%20Professional-DC2626?style=for-the-badge&logo=oracle&logoColor=white"
+alt="Oracle">
 
 </p>
 
 <p align="center">
-  <b>Oracle Certified Professional: Java SE 17 Developer</b>
+<b>Oracle Certified Professional: Java SE 17 Developer</b>
 </p>
 
 
 <!-- ===================================================== -->
-<!--                     INTERNSHIP                        -->
+<!--                    INTERNSHIP                         -->
 <!-- ===================================================== -->
 
 <h2 align="center">💼 Internship</h2>
 
-<table width="100%" border="0" align="center">
+<table width="100%" align="center">
 
 <tr>
 
@@ -493,7 +387,7 @@ Collaborated with developers in an
 
 <h2 align="center">🎓 Education</h2>
 
-<table width="100%" border="0" align="center">
+<table width="100%" align="center">
 
 <tr>
 
@@ -539,7 +433,7 @@ Collaborated with developers in an
 
 
 <!-- ===================================================== -->
-<!--                 GITHUB ANALYTICS                      -->
+<!--                  GITHUB ANALYTICS                     -->
 <!-- ===================================================== -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -547,38 +441,24 @@ Collaborated with developers in an
 <p align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=tkarthikraja44-ux&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8"
-  width="100%"
-  style="max-width:440px;"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkarthikraja44-ux&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8"
-  width="100%"
-  style="max-width:350px;"
-  alt="Top Languages"
-/>
+src="https://github-readme-stats-fast.vercel.app/api?username=tkarthikraja44-ux&show_icons=true&theme=dark&hide_border=false&title_color=ef4444&icon_color=ef4444"
+width="450"
+alt="GitHub Stats">
 
 </p>
-
-
-<!-- ===================== STREAK ======================= -->
 
 <p align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=tkarthikraja44-ux&theme=dark&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999"
-  width="100%"
-  style="max-width:500px;"
-  alt="GitHub Streak"
-/>
+src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tkarthikraja44-ux&layout=compact&theme=dark&hide_border=false&title_color=ef4444"
+width="350"
+alt="Top Languages">
 
 </p>
 
 
 <!-- ===================================================== -->
-<!--                CONTRIBUTION SNAKE                     -->
+<!--                 CONTRIBUTION SNAKE                    -->
 <!-- ===================================================== -->
 
 <h2 align="center">🐍 Contribution Journey</h2>
@@ -586,16 +466,15 @@ Collaborated with developers in an
 <p align="center">
 
 <img
-  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  width="100%"
-  alt="GitHub Contribution Snake"
-/>
+src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+width="100%"
+alt="GitHub Contribution Snake">
 
 </p>
 
 
 <!-- ===================================================== -->
-<!--                  CURRENT FOCUS                        -->
+<!--                    CURRENT FOCUS                      -->
 <!-- ===================================================== -->
 
 <h2 align="center">🎯 Current Focus</h2>
@@ -604,16 +483,12 @@ Collaborated with developers in an
 
 ☕ Strengthening Java Fundamentals
 <br><br>
-
 🧩 Data Structures & Problem Solving
 <br><br>
-
 🗄️ Improving SQL & Database Knowledge
 <br><br>
-
 🌐 Full-Stack Application Development
 <br><br>
-
 🚀 Building Practical Software Applications
 
 </p>
@@ -637,34 +512,21 @@ Collaborated with developers in an
 <p align="center">
 
 <a href="https://github.com/tkarthikraja44-ux">
-  <img
-    src="https://skillicons.dev/icons?i=github"
-    width="60"
-    height="60"
-    alt="GitHub"
-  />
+<img
+src="https://img.shields.io/badge/GitHub-tkarthikraja44--ux-111111?style=for-the-badge&logo=github&logoColor=white"
+alt="GitHub">
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/karthik-raja-thavamani">
-  <img
-    src="https://skillicons.dev/icons?i=linkedin"
-    width="60"
-    height="60"
-    alt="LinkedIn"
-  />
+<img
+src="https://img.shields.io/badge/LinkedIn-Karthik%20Raja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+alt="LinkedIn">
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="mailto:tkarthikraja44@gmail.com">
-  <img
-    src="https://skillicons.dev/icons?i=gmail"
-    width="60"
-    height="60"
-    alt="Email"
-  />
+<img
+src="https://img.shields.io/badge/Gmail-tkarthikraja44-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+alt="Email">
 </a>
 
 </p>
@@ -676,22 +538,17 @@ Collaborated with developers in an
 
 <p align="center">
 
-  <img
-    src="assets/footer.svg"
-    width="100%"
-    alt="Footer"
-  />
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"
+width="100%"
+alt="Footer">
 
 </p>
 
 <p align="center">
-
-  <b>⭐ Thanks for visiting my profile!</b>
-
+<b>⭐ Thanks for visiting my profile!</b>
 </p>
 
 <p align="center">
-
-  <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
-
+<i>Keep Learning • Keep Building • Keep Growing 🚀</i>
 </p>
